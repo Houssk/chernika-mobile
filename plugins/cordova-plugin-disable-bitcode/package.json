@@ -22,6 +22,6 @@
   "author": "Alexis Kofman <alexis.kofman@gmail.com> (http://twitter.com/alexiskofman)",
   "license": "MIT",
   "dependencies": {
-    "xcode": "^0.8.2"
+    "xcode": "^0.9.3"
   }
 }
